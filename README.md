@@ -89,7 +89,7 @@ go-htmx-crud/
 ## 🧑‍💻 Author
 
 Built with ❤️ by [Amir](https://github.com/your-username)  
-BackBrace Channel — Tutorials | Tools | Security
+BekBrace Channel — Tutorials | Tools | Courses
 
 ---
 
